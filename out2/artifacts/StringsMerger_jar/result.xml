@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+ <string name="fragment_upsale_header_text_1">You have fdfginished reading the excerpt. Purchase the complete version.</string>
+ <string name="fragment_upsale_listen">listendgf</string>
+ <string name="gift_discount">gift discountdg</string>
+ <string name="offer_book_description">offer bookdfgdfg</string>
+ <string name="offer_book_socnet">offer book socnetdfgdfg</string>
+ <string name="offer_book_text">Read bookfgdfgdfg</string>
+ <string name="offer_send_link">send linkdfg</string>
+    <!--not translated-->
+<!--not translated-->
+ <string name="fragment_upsale_listen2">listen</string>
+</resources>

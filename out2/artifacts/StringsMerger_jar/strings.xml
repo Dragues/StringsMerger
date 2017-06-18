@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="offer_book_text">Read book</string>
+    <string formatted="false" name="offer_book_description">offer book</string>
+    <string name="offer_book_socnet">offer book socnet</string>
+    <string name="offer_send_link">send link</string>
+    <string name="gift_discount">gift discount</string>
+    <!--not translated-->
+    <string name="fragment_upsale_listen2">listen</string>
+    <string name="fragment_upsale_header_text_1">You have finished reading the excerpt. Purchase the complete version.</string>
+</resources>
